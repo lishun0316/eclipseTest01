@@ -1,3 +1,4 @@
+//123456
 function getXhr(){
 	var xhr=null;
 	if(window.XMLHttpRequest){
